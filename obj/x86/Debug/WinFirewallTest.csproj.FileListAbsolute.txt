@@ -1,0 +1,6 @@
+D:\Projects\VS2010\Projects\WinFirewallTest\WinFirewallTest\obj\x86\Debug\Interop.NetFwTypeLib.dll
+D:\Projects\VS2010\Projects\WinFirewallTest\WinFirewallTest\obj\x86\Debug\WinFirewallTest.csproj.ResolveComReference.cache
+D:\Projects\VS2010\Projects\WinFirewallTest\WinFirewallTest\bin\Debug\WinFirewallTest.exe
+D:\Projects\VS2010\Projects\WinFirewallTest\WinFirewallTest\bin\Debug\WinFirewallTest.pdb
+D:\Projects\VS2010\Projects\WinFirewallTest\WinFirewallTest\obj\x86\Debug\WinFirewallTest.exe
+D:\Projects\VS2010\Projects\WinFirewallTest\WinFirewallTest\obj\x86\Debug\WinFirewallTest.pdb
